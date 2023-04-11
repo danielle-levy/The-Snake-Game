@@ -1,5 +1,5 @@
 export const SNAKE_SPEED = 2 // times per second
-const snakeBody = [{ x: 11, y: 11 }]
+const snakeBody = [{ x: 11, y: 11 }] // , { x: 11, y: 12 }]
 
 export function update() {
 
